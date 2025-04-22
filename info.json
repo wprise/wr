@@ -2,5 +2,5 @@
     "id": "wp-rocket",
     "new_version": "3.18.3",
     "url": "https://wp-rocket.me/changelog/",
-    "package": "https://github.com/wprise/wr/releases/download/3.18.3/wr.zip"
+    "package": "https://github.com/wprise/wr/releases/download/main/wr.zip"
 }
