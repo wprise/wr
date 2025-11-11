@@ -1,7 +1,8 @@
 {
     "id": "wp-rocket",
-    "new_version": "3.19.3",
+    "new_version": "3.20.1.1",
     "url": "https://wp-rocket.me/changelog/",
     "package": "https://github.com/wprise/wr/releases/download/main/wr.zip"
 }
+
 
